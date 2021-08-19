@@ -1,0 +1,32 @@
+#titulo{
+    font-family: cursive;
+    font-size: 50px;
+    text-transform: uppercase;
+    color: red;
+}
+img{
+    width: 50%; height: 50%;
+}
+h3{
+    font-size: 30px;
+}
+#ingredientes{
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-style: italic;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+form{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: cursive;
+    color: red;
+    padding-left: 40%;
+    width: 100px;
+}
